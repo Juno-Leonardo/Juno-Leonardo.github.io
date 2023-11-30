@@ -15,6 +15,7 @@ procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival
 *Clip: History of the Lady of Penafrancia*
 
 ### Schedule of Masses
+
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
 | 5:0 0am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
