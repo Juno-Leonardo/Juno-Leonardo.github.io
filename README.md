@@ -20,7 +20,7 @@ procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival
 ### Schedule of Masses
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-|--------|--------|---------|-----------|----------|--------|----------|
+|-------- |-------- |---------|---------|---------|---------|----------|
 | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
 | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am |
 | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am |
@@ -28,7 +28,7 @@ procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival
 | 9:00 am | | | | | | |
 | 11:00am | | | | | | |
 | 5:00 am | | | | | | |
-| | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm |
+| 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm |
 | 6:00 pm | | | | | | |
 | 7:00 pm | | | | | | |
 
@@ -42,9 +42,9 @@ of Peñafrancia. It is held every third Sunday of September in Naga City, Camari
 
 ----
 ### Address and Contact Info:
- **Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines**
+**Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines**
 &nbsp; &nbsp; &nbsp; &nbsp;Address
- **63 946 333 2500**
+**63 946 333 2500**
 &nbsp; &nbsp; &nbsp; &nbsp;Mobile
- **olpparish310@gmail.com**
+**olpparish310@gmail.com**
 &nbsp; &nbsp; &nbsp; &nbsp;Email
