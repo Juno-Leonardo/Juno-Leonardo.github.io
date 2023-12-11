@@ -19,17 +19,21 @@ Nissan Skyline GT-R
 # Overview
 
 # Manufacturer
+
 Nissan
 
 # Production	
+
 1969–1973
 1989–2002
 
 # Assembly	
+
 Musashimurayama, Japan
 Omori, Japan (Z-Tune)
 
 # Body and chassis
+
 Class	Sports car
 
 # Related	
